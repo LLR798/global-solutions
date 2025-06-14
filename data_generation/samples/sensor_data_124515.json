@@ -1,0 +1,11 @@
+{
+  "sensor_type": "vehicle",
+  "vehicle_id": "VH-1",
+  "speed": 78.34,
+  "fuel_level": 42.18,
+  "gps_location": {
+    "latitude": -23.548901,
+    "longitude": -46.638820
+  },
+  "timestamp": "2023-11-15T14:32:15.654321"
+}

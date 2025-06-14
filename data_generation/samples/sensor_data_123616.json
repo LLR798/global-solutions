@@ -1,0 +1,7 @@
+{
+  "sensor_type": "warehouse",
+  "warehouse_id": "WH-4",
+  "temperature": 18.45,
+  "humidity": 52.31,
+  "timestamp": "2023-11-15T14:32:10.123456"
+}
